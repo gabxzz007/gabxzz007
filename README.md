@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel 👋
 
-<!--
-**gabxzz007/gabxzz007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em **Backend** com **Node.js** e **TypeScript**. Busco criar soluções eficientes, escaláveis e bem estruturadas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** JavaScript, TypeScript
+- **Backend:** Node.js
+- **Bancos de Dados:** PostgreSQL
+- **Ferramentas:** Git, GitHub, VS Code
+
+---
+
+### 🎯 Meus Objetivos
+- Dominar a construção de APIs RESTful e Microsserviços.
+- Aprender NestJS e testes automatizados.
+- Contribuir para projetos open-source e soluções de impacto.
+
+---
+
+### 📬 Onde me encontrar
+- **LinkedIn:** https://www.linkedin.com/in/gabriel-priori-de-morais/
+- **E-mail:** gabrielpriorimorais@gmail.com
