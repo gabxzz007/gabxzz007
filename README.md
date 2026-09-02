@@ -8,7 +8,7 @@ Desenvolvedor focado em **Backend** com **Node.js** e **TypeScript**. Busco cria
 ### 🛠️ Tecnologias & Ferramentas
 - **Linguagens:** JavaScript, TypeScript
 - **Backend:** Node.js
-- **Bancos de Dados:** PostgreSQL
+- **Bancos de Dados:** MySQL
 - **Ferramentas:** Git, GitHub, VS Code
 
 ---
